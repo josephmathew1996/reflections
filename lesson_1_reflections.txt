@@ -1,0 +1,4 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    We can get the line no. of the error occured, mainly the typo error. 
